@@ -20,5 +20,5 @@ Requirements:
 * C++ 20 or above (may be lower didn't test that)
 
 Hardcoded paths to change:
-*in the Vert_Frag_Compiler.bat -> path to local glsl compiler
-*in main.cpp -> path to the Vert_Frag_Compiler.bat
+* in the Vert_Frag_Compiler.bat -> path to local glsl compiler
+* in main.cpp -> path to the Vert_Frag_Compiler.bat
