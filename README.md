@@ -11,7 +11,7 @@ Controls:
 
 to load seeds simply copy paste a saved seed or make custom ones (pattern: a + ib)
 
-#Repo cloning: 
+# Repo cloning: 
  
 Requirements:
 * Vulkan sdk
